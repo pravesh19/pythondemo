@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:root@localhost:8889/flaskdemo",
+    "prod_uri": "mysql+pymysql://root:root@localhost:8889/flaskdemo",
+    "fb_url": "https://facebook.com/flask",
+    "tw_url": "https://twitter.com/flask",
+    "gh_url": "https://github.com/flask",
+    "blog_name": "Coding Thunder",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hi my name is steve and I create programming tutorials and I am a good boy",
+    "no_of_posts": 3,
+    "login_image":"login.svg",
+    "admin_user":"harry",
+    "admin_password": "subscribenow",
+    "upload_location": "/Users/webequator/PycharmProjects/Flask-tut/static"
+  }
+}
